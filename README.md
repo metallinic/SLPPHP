@@ -12,4 +12,4 @@ Install Instructions:
 3. Right Click and Install downloaded file
 4. Right Click Rainmeter > Skins > SLPPHP > Click SLPPHP.ini
 
-Email for any clarifications/ suggestions
+Email metallinic@gmail.com for any clarifications/ suggestions
