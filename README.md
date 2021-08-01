@@ -2,8 +2,8 @@
 Cryptocurrency Widget for Rainmeter
 
 Please consider donating:
-# Ronin: ronin:a879b2a608f6a9630b208a175b03fa256f98b6e0
-# ETH  : 0x197D558f62B7EC4cDfF44091aD17Ce6fba8d7F71
+ Ronin: ronin:a879b2a608f6a9630b208a175b03fa256f98b6e0
+ ETH  : 0x197D558f62B7EC4cDfF44091aD17Ce6fba8d7F71
 
 Install Instructions:
 
